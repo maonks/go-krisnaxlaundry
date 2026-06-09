@@ -1,0 +1,16 @@
+.env
+
+# binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# vscode
+.vscode/
+
+# jetbrains
+.idea/
+
+# temporary
+tmp/
